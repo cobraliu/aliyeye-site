@@ -13,11 +13,11 @@
 
 ---
 
-## 1. ColorNest（儿童涂色）
+## 1. ColorNest Coloring（儿童涂色）
 
 - **Bundle ID**: `site.aliyeye.colornest`
 - **App 信息页**
-  - 名称：`ColorNest`
+  - 名称：`ColorNest Coloring`
   - 副标题（≤30 字符）：`儿童涂色绘本与创作乐园`
   - 分类：主「教育」，副「娱乐」
   - 儿童分类：若走 Kids Category，勾选「5 岁及以下 / 6–8 岁」按实际定位选
@@ -29,7 +29,7 @@
   - 描述：
 
 ```
-ColorNest 是专为孩子打造的涂色创作乐园。
+ColorNest Coloring 是专为孩子打造的涂色创作乐园。
 
 【海量线稿】数百张精心挑选的线稿，动物、植物、交通工具、节日主题应有尽有，持续更新。
 【自由涂色】不限制涂法，手指、画笔随意挥洒，颜色可以涂出线外，孩子怎么开心怎么来。
@@ -53,11 +53,11 @@ Parent-facing settings are placed behind a parental gate (long-press puzzle) —
 
 ---
 
-## 2. Scan2Doc（扫描转 Word/Excel）
+## 2. ScannedPdf2Doc（扫描转 Word/Excel）
 
 - **Bundle ID**: `site.aliyeye.scanpdf2doc`
 - **App 信息页**
-  - 名称：`Scan2Doc`（若重名备选：`Scan2Doc - 扫描转Word`）
+  - 名称：`ScannedPdf2Doc`
   - 副标题：`扫描文件，一键转 Word Excel`
   - 分类：主「效率」，副「商务」
 - **版本页**
@@ -67,7 +67,7 @@ Parent-facing settings are placed behind a parental gate (long-press puzzle) —
   - 描述（中文为主版本；英、日、韩等语言版本建议同文翻译后分语言填写）：
 
 ```
-Scan2Doc 把纸变回可编辑的文档——拍摄、整理、导出、识别，全程在你的设备上完成。
+ScannedPdf2Doc 把纸变回可编辑的文档——拍摄、整理、导出、识别，全程在你的设备上完成。
 
 【扫描】系统级扫描界面：自动找边、自动抓拍、透视矫正，连拍多页一气呵成。
 【整理】页面列表支持拖拽排序、删除、替换，组页顺序你说了算。
@@ -140,11 +140,11 @@ Demo video: <上传一段 30 秒演示后填链接>
 
 ---
 
-## 4. EasyNotes（笔记）
+## 4. EasyNotes - Handwriting Notes（笔记）
 
 - **Bundle ID**: `site.aliyeye.easynotes`
 - **App 信息页**
-  - 名称：`EasyNotes`（建记录时如撞名，备选：`EasyNotes - 随手记`）
+  - 名称：`EasyNotes - Handwriting Notes`
   - 副标题：`随手写，随时翻`
   - 分类：主「效率」，副「教育」
 - **版本页**
@@ -154,7 +154,7 @@ Demo video: <上传一段 30 秒演示后填链接>
   - 描述：
 
 ```
-EasyNotes 让记笔记回到「拿笔就写」的简单。
+EasyNotes - Handwriting Notes 让记笔记回到「拿笔就写」的简单。
 
 【无限画布】一张写不完的纸，内容随意摆放，手写、画图、贴图都行。
 【顺手好写】Apple Pencil、手指、外接键盘都支持；画出的形状自动规整，随手一画就是整齐的图形。
