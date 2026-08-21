@@ -4,8 +4,8 @@
 
 | 字段 | 值 |
 |---|---|
-| Privacy Policy URL | `https://docs.aliyeye.site/privacy.html` |
-| Support URL | `https://docs.aliyeye.site/support.html` |
+| Privacy Policy URL | `https://doc.aliyeye.site/privacy.html` |
+| Support URL | `https://doc.aliyeye.site/support.html` |
 | 价格 | 免费（如改付费/内购另行配置） |
 
 > 注意：App 名称、副标题在「App 信息」页填一次全版本通用；描述、关键词、截图在每个版本页填。
